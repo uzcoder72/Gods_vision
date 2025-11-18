@@ -1,0 +1,32 @@
+# Large generated files
+Heavenly_memory.txt
+Educational_Combinations_Research.txt
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal data (add any specific files you want to ignore)
+personal_data.txt
+config.ini
+secrets.json
+*.key
+*.pem

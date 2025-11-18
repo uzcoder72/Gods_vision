@@ -1,0 +1,48 @@
+God's Vision Combination Generator
+
+Gods_vision is a tool to try every single possibility with (8-16) digit letters and save it into txt file. It included uppercase and lowercase characters of English alphabet (a-Z), numbers (0-9) and special symbols.
+
+COMBINATION COVERAGE
+--------------------
+Length 8: All 6,095,689,385,410,816 combinations (6 quadrillion) - FULL
+Length 9: All 573,004,802,228,616,704 combinations (573 quadrillion) - FULL
+Length 10: All 53,861,451,409,490,170,000 combinations (53 quintillion) - FULL
+Length 11: Partial of the 5.06 × 10^21 combinations
+Length 12-16: Increasingly smaller fractions
+
+Total: ~3.8 billion lines in ~50GB file
+
+CHARACTER SET
+-------------
+- English uppercase letters: A-Z
+- English lowercase letters: a-z  
+- Numbers: 0-9
+- Special symbols: ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { } ~
+
+PERFORMANCE FEATURES
+--------------------
+Progress tracking: Real-time updates with percentage, speed, and ETA
+Memory efficient: Batched writing to handle large datasets
+Size management: Automatically stops at 50GB
+Optimized character set: Only your specified symbols
+UTF-8 ready: Proper encoding for all characters
+
+TECHNICAL DETAILS
+-----------------
+- Character set size: 94 characters
+- Target file size: 50GB
+- Output file: Educational_Combinations_Research.txt
+- Processing: Batch-based for memory efficiency
+- Encoding: UTF-8 for universal compatibility
+
+INTENDED USE
+------------
+This tool is designed for educational purposes, authorized security research, 
+and combinatorial mathematics studies. Users must ensure they have proper 
+authorization for any testing and comply with all applicable laws.
+
+LEGAL NOTE
+----------
+This software is provided for EDUCATIONAL and RESEARCH purposes ONLY.
+Unauthorized use for malicious activities is strictly prohibited.
+Users assume full responsibility for compliant and ethical usage.

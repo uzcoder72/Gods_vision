@@ -1,0 +1,24 @@
+EDUCATIONAL USE LICENSE
+
+This software is provided for EDUCATIONAL and RESEARCH purposes ONLY.
+
+PERMITTED USES:
+- Academic research and education
+- Authorized security testing with written permission
+- Combinatorial mathematics research
+- Personal educational projects
+
+PROHIBITED USES:
+- Any illegal activities
+- Unauthorized system access
+- Brute force attacks without permission
+- Password cracking without ownership
+- Harassment or privacy invasion
+- Any activity violating laws or terms of service
+
+DISCLAIMER:
+The software creator provides no warranties and accepts no liability 
+for misuse. Users assume full responsibility for compliant, ethical use.
+
+By using this software, you agree to these terms and accept that 
+violations may result in legal consequences.
