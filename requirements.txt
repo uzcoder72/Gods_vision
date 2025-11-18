@@ -1,4 +1,4 @@
-# 50 gb free storage
-# No external dependencies required
-# Built with Python standard library
-# For educational combinatorics research only
+50 gb free storage
+No external dependencies required
+Built with Python standard library
+For educational combinatorics research only
